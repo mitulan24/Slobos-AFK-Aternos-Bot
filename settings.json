@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mitu24.aternos.me:14482",
+    "ip": "mitu24.aternos.me",
     "port": 14482,
     "version": "",
     "try-creative": false
